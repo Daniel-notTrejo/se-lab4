@@ -1,0 +1,27 @@
+
+#több lövés egymás után ha csak 1 féle lőszer van
+#1db lőszer
+#A
+GT4500,1,0,0,0
+torpedo,SINGLE
+torpedo,SINGLE
+
+#B
+GT4500,0,0,1,0
+torpedo,SINGLE
+torpedo,SINGLE
+
+
+#több lövés egymás után ha csak 1 féle lőszer van
+#több mint 1 loszer
+#C
+GT4500,5,0,0,0
+torpedo,SINGLE
+torpedo,SINGLE
+
+#D 
+GT4500,0,0,8,0
+torpedo,SINGLE
+torpedo,SINGLE
+
+

@@ -1,0 +1,14 @@
+
+#Fire all, tud e lőni mindkettővel
+#hajó 1db lőszerrel
+#A
+GT4500,1,0,0,0
+TORPEDO,all
+
+#B 2 db lőszer egy all fire után egy single fire
+GT4500,1,0,1,0
+TORPEDO,all
+torpedo,single
+
+
+
