@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Fire all, tud e lőni mindkettővel
 #hajó 1db lőszerrel
 #A
@@ -8,5 +9,6 @@ TORPEDO,all
 GT4500,1,0,1,0
 TORPEDO,all
 torpedo,single
+
 
 
