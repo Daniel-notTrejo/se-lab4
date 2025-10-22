@@ -1,0 +1,18 @@
+#hibas torpedo tesztek
+#A 1 hibas fajta raketa többször lő 
+GT4500,8,1,8,0
+torpedo,SINGLE
+torpedo,SINGLE
+torpedo,all
+
+#B uez. csak fordítva
+GT4500,8,0,8,1
+torpedo,SINGLE
+torpedo,SINGLE
+torpedo,all
+
+#C mindkettő hibas
+GT4500,8,1,8,1
+torpedo,SINGLE
+torpedo,SINGLE
+torpedo,all

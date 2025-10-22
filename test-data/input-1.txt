@@ -1,0 +1,11 @@
+#Fire all, tud e lőni mindkettővel
+#hajó kello mennyisegű torpedoval
+GT4500,10,0,10,0
+TORPEDO,all
+
+#B nincs raketa egyaltalan
+GT4500,0,0,0,0
+TORPEDO,all
+
+#C single lövés nincs torpedo
+torpedo,all
