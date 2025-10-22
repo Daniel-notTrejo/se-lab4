@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #több lövés egymás után ha csak 1 féle lőszer van
 #1db lőszer
 #A

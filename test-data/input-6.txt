@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #hibas torpedo tesztek
 #A 1 hibas fajta raketa többször lő 
 GT4500,8,1,8,0
