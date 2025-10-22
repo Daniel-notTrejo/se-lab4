@@ -1,0 +1,3 @@
+#Minden torpedót egyszerre lehet kilőni
+GT4500,1,0,0,0
+TORPEDO,ALL

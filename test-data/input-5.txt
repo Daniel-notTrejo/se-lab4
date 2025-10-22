@@ -1,0 +1,3 @@
+#Hibás torpedó esetén a firing kísérlet sikertelen
+gt4500,10,1,0,0
+torpedo,all
